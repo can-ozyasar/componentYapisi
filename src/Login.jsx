@@ -24,13 +24,13 @@ function Login() {
 <div>
 
 <div>
-<p style={{ color:"pink"}}>kulanıcı adınız</p>
+<p style={{ color:"pink"}}>kulanici adiniz</p>
 <input style={{color:"pink"}} type="text" />
 </div>
 
 
 <div>
-<p style={{ color:"pink"}}>şifreniz </p>
+<p style={{ color:"pink"}}>şifreniz. </p>
 <input type="password" />
 
 </div>
